@@ -6,5 +6,6 @@ author = "Brian Nelson <dev.briannelson@gmail.com>"
 
 [dependencies]
 dotenv = "0.15.0"
+elytra-ping = "5.1.0"
 poise = "0.6.1"
 tokio = { version = "1.39.2", features = ["full"]}
