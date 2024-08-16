@@ -8,4 +8,5 @@ author = "Brian Nelson <dev.briannelson@gmail.com>"
 dotenv = "0.15.0"
 elytra-ping = "5.1.0"
 poise = "0.6.1"
+rand = "0.8.5"
 tokio = { version = "1.39.2", features = ["full"]}
